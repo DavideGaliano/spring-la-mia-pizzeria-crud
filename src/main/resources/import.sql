@@ -1,0 +1,1 @@
+INSERT INTO pizze (id, name, description, url, prezzo) VALUES (1, 'Vulva', 'Base bianca con cozze limone e pepe', 'https://www.identitagolose.it/public/images/xmedium/pizza-2.jpg', 12.50)
